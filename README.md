@@ -18,7 +18,8 @@ my senior secondary education session. This software have the following feature:
 
 ## How to use this System
 1) Install tkinter, pymysql
-2) Now click on main.py to open the software
-3) Now use rajan and a user id and 1234 as a password to open the software.
-4) You can'nt open it without the user id and password
-5) Now Enjoy the Software ❤️
+2) Firstly run createdatabase.py to create the database in your system other wise you will get error.
+3) Now click on main.py to open the software
+4) Now use rajan and a user id and 1234 as a password to open the software.
+5) You can'nt open it without the user id and password
+6) Now Enjoy the Software ❤️
